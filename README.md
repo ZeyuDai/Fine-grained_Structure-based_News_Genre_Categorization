@@ -10,3 +10,8 @@ Dataset for the COLING2018 workshop paper ["Fine-grained Structure-based News Ge
   year={2018}
 }
 ```
+
+
+--------------------------------------------------------------------
+
+Dataset is available here: (https://drive.google.com/file/d/1c2RQsqpDzT3PY-vURRxEmGzRgMXZI7WY/view?usp=sharing)

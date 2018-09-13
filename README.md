@@ -1,5 +1,5 @@
 # Fine-grained-Structure-based-News-Genre-Categorization-
-Dataset for the COLING2018 workshop paper ["Fine-grained Structure-based News Genre Categorization"](http://www.aclweb.org/anthology/N18-1013)
+Dataset for the COLING2018 workshop paper ["Fine-grained Structure-based News Genre Categorization"](http://aclweb.org/anthology/W18-4308)
 
 ```
 @inproceedings{dai2018fine,
@@ -15,3 +15,4 @@ Dataset for the COLING2018 workshop paper ["Fine-grained Structure-based News Ge
 --------------------------------------------------------------------
 
 Dataset is available here: (https://drive.google.com/file/d/1c2RQsqpDzT3PY-vURRxEmGzRgMXZI7WY/view?usp=sharing)
+Each XML file contains the annotation of both elements and news structure label.

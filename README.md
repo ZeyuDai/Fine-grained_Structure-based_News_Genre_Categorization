@@ -17,4 +17,4 @@ Dataset for the COLING 2018 workshop paper ["Fine-grained Structure-based News G
 Dataset is available here: (https://drive.google.com/file/d/1c2RQsqpDzT3PY-vURRxEmGzRgMXZI7WY/view?usp=sharing) 
 Each XML file contains the annotation of both elements and news structure label.
 
-Disclaimer: Our dataset used raw documents from [Gigaword](https://catalog.ldc.upenn.edu/LDC2012T21) which was released under LDC License. You must follow the LDC license to get access permission to Gigaword data before downloading our dataset.
+Disclaimer: Our dataset used raw documents from [Gigaword](https://catalog.ldc.upenn.edu/LDC2012T21) which was released under LDC License. You must follow the LDC license to get permitted access to Gigaword data before downloading our dataset.

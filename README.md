@@ -14,6 +14,6 @@ Dataset for the COLING 2018 workshop paper ["Fine-grained Structure-based News G
 
 --------------------------------------------------------------------
 
-Please contact me (jzdaizeyu@tamul.edu) if you want to use our dataset!
+Please contact me (jzdaizeyu@tamu.edu) if you want to use our dataset!
 
 Disclaimer: Our dataset used raw documents from [Gigaword](https://catalog.ldc.upenn.edu/LDC2012T21) which was released under LDC License. You must follow the LDC license to get permitted access to Gigaword data before downloading our dataset.
